@@ -1,8 +1,6 @@
 # Student_Result_System
 
 
-Introduction
-
 The Student Result System is a multi-language application designed to manage and display students' academic results efficiently. This system provides functionalities to add, update, and view student records and their results. Built using various programming languages and technologies, it demonstrates cross-platform compatibility and flexibility.
 
 
